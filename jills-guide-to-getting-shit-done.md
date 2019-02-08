@@ -8,7 +8,7 @@
 - When does this need to be completed by?
 - How are you going to accomplish this?
 
-## Define Tasks
+## Task Me Nicely
 - Break your objectives down into smaller tasks that can be completed
 
 ## Teamwork Makes the Dreamwork
